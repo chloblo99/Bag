@@ -16,4 +16,6 @@ public interface BagInterface<T> {
 
     public T[] toArray();
 
+    public void display();
+
 }
